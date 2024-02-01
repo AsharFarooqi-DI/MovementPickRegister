@@ -1,0 +1,32 @@
+{
+  "id": "d9f886e7-8887-4728-aefc-0bf5d3090ba6",
+  "name": "MovementPickRegister",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "e1c25fd1-584b-4fa2-9524-9917f4fdbe19",
+      "name": "EAZYeConnect-AW",
+      "publisher": "Dynamics Inspire",
+      "version": "1.0.0.4"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}

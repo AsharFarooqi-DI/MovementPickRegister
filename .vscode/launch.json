@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "TMQA",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "https://dynamics.tm8.co.uk/TMQA",
+            "serverInstance": "TMQA",
+            "port": 18019,
+            "authentication": "UserPassword",
+            "startupObjectId": 50016,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync",
+            "tenant": "default"
+        }
+    ]
+}
