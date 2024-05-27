@@ -1,4 +1,4 @@
-pageextension 50058 "Eazy Setup Ext" extends "EAZY Setup DI"
+pageextension 50085 "Eazy Setup Ext" extends "EAZY Setup DI"
 {
     layout
     {

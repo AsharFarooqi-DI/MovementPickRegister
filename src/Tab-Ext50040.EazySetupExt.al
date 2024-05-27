@@ -1,4 +1,4 @@
-tableextension 50040 "Eazy Setup Ext" extends "EAZY Setup DI"
+tableextension 50080 "Eazy Setup Ext" extends "EAZY Setup DI"
 {
     fields
     {
